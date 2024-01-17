@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HealthCare</string>
+    <string-array name="usertype">
+        <item>User</item>
+        <item>Admin</item>
+    </string-array>
+    <string-array name="listType">
+        <item>Family Physicians</item>
+        <item>Dietician</item>
+        <item>Dentist</item>
+        <item>Surgeon</item>
+        <item>Cardiologists</item>
+        <item>Neurologists</item>
+        <item>Orthopedics</item>
+    </string-array>
+
+    <string-array name="listLT">
+        <item>X-RAY</item>
+        <item>ECG</item>
+        <item>MRI</item>
+        <item>CT-SCAN</item>
+        <item>EEG</item>
+        <item>ULTRASONOGRAPHY</item>
+        <item>ENDOSCOPY</item>
+    </string-array>
+</resources>
